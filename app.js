@@ -1,5 +1,5 @@
-var a ="hello";
- var b="word";
- var c =a+b;
-//  Document.write(c);
- console.log(c);
+var a =[1,2,3,4,5,6];
+ a.pop();
+ 
+
+ console.log(a);
